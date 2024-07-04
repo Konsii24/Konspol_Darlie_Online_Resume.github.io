@@ -7,6 +7,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+
 }
 
 /* HTML5 DECLARATIONS */
@@ -856,11 +857,11 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+#5cb85c
 .project-container {
   max-width: 240px;
   border-radius: 5px;
-  background-color: #5cb85c;
+  background: linear-gradient(45deg, #5cb85c, white); //#5cb85c
   color: #fff;
   cursor: pointer;
   box-shadow: 2px 2px 5px 3px #5cb85c27;
